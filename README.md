@@ -80,15 +80,11 @@ National Finalist (GACCI 2025) · 3rd National Winner (Budaya Go! 2025)
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iqbalscript&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalscript&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalscript&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/iqbalscript/iqbalscript/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ### 📫 Let's Connect
