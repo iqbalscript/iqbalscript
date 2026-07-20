@@ -78,15 +78,6 @@ National Finalist (GACCI 2025) · 3rd National Winner (Budaya Go! 2025)
 
 ---
 
-### 📊 GitHub Stats
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iqbalscript/iqbalscript/output/github-contribution-grid-snake-dark.svg" />
-</p>
----
-
 ### 📫 Let's Connect
 
 <p align="left">
